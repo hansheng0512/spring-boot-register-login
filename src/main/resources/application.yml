@@ -6,7 +6,7 @@ server:
 spring:
   datasource:
     password: postgres
-    url: jdbc:postgresql://localhost:5432/sprint-boot-register-login
+    url: jdbc:postgresql://localhost:5432/spring-boot-register-login
     username: postgres
   jpa:
     hibernate:
